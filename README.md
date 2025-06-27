@@ -1,6 +1,7 @@
 # Projet Examen Développement Web - Site Statique Interactif
 
 Ce projet est un site web statique d'une seule page conçu pour présenter un profil d'étudiant, ses compétences techniques de manière interactive, et ses projets réalisés .
+et le projet se trouve sur la branche Master
 
 ## Auteur
 
